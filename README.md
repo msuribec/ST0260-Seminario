@@ -5,5 +5,4 @@ Algunos de los programas  se encuentran en la página de Eafit [click aquí.](ht
 
 En [esta](https://onthehub.com/search/higher-ed) página se pueden consultar los programas a los que se tiene acceso (licencias temporales o descuentos) como estudiante y como estudiante de ingeniería de sistemas específicamente.
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ ![alt text](https://raw.githubusercontent.com/msuribec/taller3/master/1.png "Logo Title Text 1")
